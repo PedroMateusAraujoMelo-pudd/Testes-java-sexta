@@ -1,0 +1,6 @@
+package com.RedeSolidaria.model.enums;
+public enum EstadoAptidao { 
+    APTA, 
+    BLOQUEADA, 
+    IMPROPRIA 
+    }
